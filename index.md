@@ -7,3 +7,9 @@
 3. A [command line utility](https://github.com/viksit-siddhant/scripts/) to view reddit posts
 
 4. [Calculating fourier series](https://github.com/viksit-siddhant/fourier-series) and visualizing them
+
+5. [Sentiment analysis](https://github.com/viksit-siddhant/sentiment-analysis) of IMDB movie reviews
+
+6. [Visualizing derivatives](https://github.com/viksit-siddhant/derivative)
+
+7.
