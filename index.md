@@ -1,4 +1,4 @@
-## My projects
+A list of my programming projects
 
 - An implementation of a [genetic algorithm](https://github.com/viksit-siddhant/np-gen-alg) using Numpy
 
