@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: My projects
+github:
+  is_project_page: false
